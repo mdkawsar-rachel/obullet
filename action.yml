@@ -1,0 +1,7 @@
+# action.yml
+name: 'Open Bullet'
+description: 'OpenBullet'
+runs:
+  using: 'docker'
+  image: 'openbullet2'
+  
